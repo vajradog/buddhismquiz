@@ -30,7 +30,7 @@ var quizJSON = {
             "a": [
                 {"option": "He was a Tibetan Hermit",        "correct": false},
                 {"option": "He was the King of Nepal",   "correct": false},
-                {"option": "He was an Indian Prince",               "correct": true},
+                {"option": "He was the Prince of Kapilavastu.",               "correct": true},
                 {"option": "He was the father of Buddha", "correct": false} // no comma here
             ],
             "select_any": true,
